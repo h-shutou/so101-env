@@ -1,0 +1,3 @@
+slot,ros_domain_id,cicero_foxglove_port,mac_local_port,notes
+example_A,73,18765,18766,verified_example_only
+example_B,74,18767,18766,verified_example_only_different_mac
